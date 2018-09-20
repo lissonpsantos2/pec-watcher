@@ -1,0 +1,8 @@
+INFO:root:[PEC-WATCHER STATUS]: 
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): dab.saude.gov.br
+DEBUG:requests.packages.urllib3.connectionpool:"GET /portaldab/esus.php?conteudo=download HTTP/1.1" 200 None
+INFO:root:New changes: OLD_VERSION: NEW_VERSION: 3.0.11
+INFO:root:[PEC-WATCHER STATUS]: 
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): dab.saude.gov.br
+DEBUG:requests.packages.urllib3.connectionpool:"GET /portaldab/esus.php?conteudo=download HTTP/1.1" 200 None
+INFO:root:No version changes

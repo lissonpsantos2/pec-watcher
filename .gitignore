@@ -1,0 +1,4 @@
+./__pycache__
+./executions.log
+./last_version_info.info
+./config.py
